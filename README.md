@@ -4,7 +4,7 @@ Athaya Zahrani Irmansyah as a Purwadhika JCDS-0408 Student On Site Bandung 2024 
 Capstone Project Module 1 with Case Study Student Data Usage (Data Nilai Mahasiswa)
 
 - Konteks
-  - Projek ini merupakan projek implementasi dari pembahasan mengenai _Python Programming Fundamental_ pada Modul 1 JCDS-0408 Purwadhika On Site Bandung 2024. Projek ini membuat suatu aplikasi yang diberi nama **"Portal Data Nilai Mahasiswa Mata Kuliah Kalkulus (Semester Ganjil) di Fakultas Teknik Sipil dan Perencanaan Tahun 2024"**. Program ini membantu para pemangku kepentingan untuk merekap data mahasiswa dengan beberapa kategori input, serta dapat membantu menghitung rata-rata dan menentukan indeks akhir mahasiswa dengan cepat dan tepat.
+  - Projek ini merupakan projek implementasi dari pembahasan mengenai _Python Programming Fundamental_ pada Modul 1 JCDS-0408 Purwadhika On Site Bandung 2024. Projek ini membuat suatu aplikasi yang diberi nama **"Portal Data Nilai Mahasiswa Mata Kuliah Kalkulus (Semester Ganjil) di Fakultas Teknik Sipil dan Perencanaan Tahun 2024"**. Dengan bantuan fitur CRUD (Create, Read, Update dan Delete), program ini dapat membantu para pemangku kepentingan untuk merekap data mahasiswa dengan beberapa kategori input, serta dapat membantu menghitung rata-rata dan menentukan indeks akhir mahasiswa dengan cepat dan tepat.
 - Fitur Utama. Program ini mengandung 6 menu utama, yaitu:
   - Menu 1: Menampilkan Seluruh Data Mahasiswa (Read Data)
   - Menu 2: Menambahkan Data Mahasiswa (Create Data)
