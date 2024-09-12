@@ -1,7 +1,7 @@
 # Athaya Zahrani Irmansyah - Capstone Project Module 1 - Data Nilai Mahasiswa (in Bahasa)
 
 _Athaya Zahrani Irmansyah as a Purwadhika JCDS-0408 Student On Site Bandung 2024 / 
-Capstone Project Module 1 with Case Study Student Data Usage (Data Nilai Mahasiswa)_
+Capstone Project Module 1 Python Programming Fundamental with Case Study Student Data Usage (Data Nilai Mahasiswa)_
 
 - Context
   - This project is an implementation of the discussion on Python Programming Fundamentals in Module 1 of JCDS-0408 Purwadhika On Site Bandung 2024. The project creates an application named "Student Grades Data Portal for Calculus Course (Odd Semester) at the Faculty of Civil Engineering and Planning in 2024". With the help of CRUD features (Create, Read, Update, and Delete), this program can assist stakeholders in recording student data with several input categories, as well as help calculate the average and determine the final student grade quickly and accurately.
