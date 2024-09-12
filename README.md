@@ -7,15 +7,15 @@ Capstone Project Module 1 with Case Study Student Data Usage (Data Nilai Mahasis
   - This project is an implementation of the discussion on Python Programming Fundamentals in Module 1 of JCDS-0408 Purwadhika On Site Bandung 2024. The project creates an application named "Student Grades Data Portal for Calculus Course (Odd Semester) at the Faculty of Civil Engineering and Planning in 2024". With the help of CRUD features (Create, Read, Update, and Delete), this program can assist stakeholders in recording student data with several input categories, as well as help calculate the average and determine the final student grade quickly and accurately.
 - Main Features. This program contains 6 main menus:
   - Menu 1: Display All Student Data (Read Data)
-  -Menu 2: Add Student Data (Create Data)
-  -Menu 3: Modify Student Data (Update Data)
-  -Menu 4: Delete Student Data (Delete Data)
-  -Menu 5: Student Final Grade Information
-  -Menu 6: Exit the Program
+  - Menu 2: Add Student Data (Create Data)
+  - Menu 3: Modify Student Data (Update Data)
+  - Menu 4: Delete Student Data (Delete Data)
+  - Menu 5: Student Final Grade Information
+  - Menu 6: Exit the Program
 - Objective
-  - Provide an effective solution for stakeholders to store, access, update, and delete data
+  - Provide an effective solution for stakeholders to store, access, update, and delete data.
   - Assist stakeholders in speeding up the process of calculating student grades and final indexes.
-  - Can be used by various types of stakeholders in the academic field
+  - Can be used by various types of stakeholders in the academic field.
 - Stakeholders
   - Teachers
   - Lecturers
