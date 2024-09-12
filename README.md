@@ -3,34 +3,33 @@
 _Athaya Zahrani Irmansyah as a Purwadhika JCDS-0408 Student On Site Bandung 2024 / 
 Capstone Project Module 1 with Case Study Student Data Usage (Data Nilai Mahasiswa)_
 
-- Konteks
-  - Projek ini merupakan implementasi dari pembahasan mengenai _Python Programming Fundamental_ pada Modul 1 JCDS-0408 Purwadhika On Site Bandung 2024. Projek ini membuat suatu aplikasi yang diberi nama **"Portal Data Nilai Mahasiswa Mata Kuliah Kalkulus (Semester Ganjil) di Fakultas Teknik Sipil dan Perencanaan Tahun 2024"**. Dengan bantuan fitur CRUD (Create, Read, Update, dan Delete), program ini dapat membantu para pemangku kepentingan untuk merekap data mahasiswa dengan beberapa kategori input, serta dapat membantu menghitung rata-rata dan menentukan indeks akhir mahasiswa dengan cepat dan tepat.
-- Fitur Utama. Program ini mengandung 6 menu utama, yaitu:
-  - Menu 1: Menampilkan Seluruh Data Mahasiswa (_Read Data_)
-  - Menu 2: Menambahkan Data Mahasiswa (_Create Data_)
-  - Menu 3: Mengubah Data Mahasiswa (_Update Data_)
-  - Menu 4: Menghapus Data Mahasiswa (_Delete Data_)
-  - Menu 5: Informasi Nilai Akhir Mahasiswa
-  - Menu 6: Keluar dari Program
-- Objektif
-  - Menyediakan solusi efektif bagi pemangku kepentingan untuk menyimpan, mengakses, memperbaharui, dan menghapus data
-  - Membantu pemangku kepentingan untuk mempercepat proses perhitungan nilai dan indeks akhir mahasiswa.
-  - Dapat digunakan untuk berbagai jenis pemangku kepentingan khususnya dalam bidang akademik
+- Context
+  - This project is an implementation of the discussion on Python Programming Fundamentals in Module 1 of JCDS-0408 Purwadhika On Site Bandung 2024. The project creates an application named "Student Grades Data Portal for Calculus Course (Odd Semester) at the Faculty of Civil Engineering and Planning in 2024". With the help of CRUD features (Create, Read, Update, and Delete), this program can assist stakeholders in recording student data with several input categories, as well as help calculate the average and determine the final student grade quickly and accurately.
+- Main Features. This program contains 6 main menus:
+  - Menu 1: Display All Student Data (Read Data)
+  -Menu 2: Add Student Data (Create Data)
+  -Menu 3: Modify Student Data (Update Data)
+  -Menu 4: Delete Student Data (Delete Data)
+  -Menu 5: Student Final Grade Information
+  -Menu 6: Exit the Program
+- Objective
+  - Provide an effective solution for stakeholders to store, access, update, and delete data
+  - Assist stakeholders in speeding up the process of calculating student grades and final indexes.
+  - Can be used by various types of stakeholders in the academic field
 - Stakeholders
-  - Guru
-  - Dosen
-  - Tutor/fasilitator
-  - Jenis tenaga pendidik lainnya
-- Limitasi
-  - Keterbatasan kategori input (_field/kolom/keys_) dan menu/fitur utama. Kategori input dan menu/fitur utama bisa saja ditambah atau dikurang sesuai kebutuhan pemangku kepentingan
-  - Keterbatasan validasi data yang dibutuhkan karena validasi data tidak selalu sama pada setiap pemangku kepentingan
-  - Tidak ada pembaruan otomatis. Pembaruan data perlu dilakukan secara manual. Penggunaan data yang banyak dan lebih beragam memerlukan teknik _convert_ data lebih lanjut
-- Instruksi Pengguna
-  - Data yang dibutuhkan di program ini adalah Nomor Induk Mahasiswa (NIM) sebagai data unik, nama, jurusan, semester, angkatan, nilai kuis, nilai UTS, dan nilai UAS
-  - Pastikan kebutuhan data telah dipersiapkan sebelum diinput dan dijalankan di program
-  - Memerlukan instalasi tabulate untuk mendukung penampilan data dalam bentuk tabel
-  - Untuk menjalankan program, gunakan file berekstensi '.py' pada laman ini
-  - Kontribusi Anda dalam proyek ini sangat dihargai. Hubungi jika membutuhkan bantuan, memberi saran/masukan, atau ingin berkontribusi lebih lanjut dalam projek ini
- 
-Terima Kasih - Athaya Zahrani Irmansyah
-
+  - Teachers
+  - Lecturers
+  - Tutors/facilitators
+  - Other types of educators
+- Limitations
+  - Limited input categories (fields/columns/keys) and main menus/features. Input categories and main menus/features may be added or reduced according to stakeholders' needs.
+  - Limited data validation required, as data validation is not always the same for each stakeholder.
+  - No automatic updates. Data updates need to be done manually. The use of larger and more varied data requires further data conversion techniques.
+- User Instructions
+  - The data needed in this program includes the Student Identification Number (NIM) as a unique data point, name, major, semester, year, quiz scores, midterm (UTS) scores, and final exam (UAS) scores.
+  - Ensure the required data is prepared before inputting and running it in the program.
+  - Requires the installation of tabulate to support data display in table form.
+  - To run the program, use the '.py' file on this page.
+  - Your contribution to this project is highly appreciated. Feel free to contact if you need help, have suggestions/feedback, or want to contribute further to this project.
+  
+Thank you - Athaya Zahrani Irmansyah
